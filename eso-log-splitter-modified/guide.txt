@@ -1,3 +1,5 @@
+In case I'll need to re-compile it :xdd:
+
 - C:\Users\super\AppData\Local\Programs\Python\Python313\python -m pip install X
 
 Usare log splitter
