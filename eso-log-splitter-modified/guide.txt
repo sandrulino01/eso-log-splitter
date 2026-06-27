@@ -1,0 +1,7 @@
+- C:\Users\super\AppData\Local\Programs\Python\Python313\python -m pip install X
+
+Usare log splitter
+- C:\Users\super\AppData\Local\Programs\Python\Python313\python -m pip install PySimpleGUI
+Fare execute
+- C:\Users\super\AppData\Local\Programs\Python\Python313\python -m pip install pyinstaller
+- C:\Users\super\AppData\Local\Programs\Python\Python313\Scripts\pyinstaller X.py --onefile
